@@ -13,7 +13,7 @@ edition = "2018"
 [dependencies]
 failure = "0.1"
 slack = "0.24"
-slack_api = "0.22"
+slack_api = "0.23"
 openssl-probe = "0.1"
 env_logger = "0.7"
 log = "0.4"
